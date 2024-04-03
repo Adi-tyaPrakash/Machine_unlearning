@@ -1,0 +1,2 @@
+This project focuses on the concept of machine unlearning, specifically employing the SISA (Sharded, Isolated,Sliced, and Aggregated training) approach. Machine unlearning allows models to forget specific patterns or data points, enabling more flexible and adaptable AI systems. The SISA approach provides a structured method for selectively unlearning specific instances while minimizing the impact on overall model performance.
+Link to the research paper:https://arxiv.org/pdf/1912.03817.pdf
